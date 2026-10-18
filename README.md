@@ -1,8 +1,14 @@
-# Hi, I am zorvi,
+# Hi, I am zorvi
 
 ### self-taught junior full-stack developer
 
 _I'm 18 years old, and I enjoy building things._ I'm currently working on [Lepse](https://lepse.app) and looking for a job/internship.
+
+---
+
+## What I've worked with
+
+<br>
 
 | Frameworks &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Backend &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Frontend &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ----------- | ------- | -------- |
